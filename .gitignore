@@ -1,5 +1,9 @@
+__pycache__/
+*/__pycache__/*
 /venv/
 venv
+/.venv/
+.venv
 .env
 klad.ipynb
-test.ipynb
+/notebooks/jari_test.ipynb
